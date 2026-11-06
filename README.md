@@ -1,22 +1,23 @@
 # Hi, I'm Vaishnavi Gangam 👋
 
-### Software Engineer | Backend APIs • Python • FastAPI • SQL • Cloud Platforms
+### Software Engineer | React • React Native • JavaScript • Python • FastAPI
 
-I build and support backend applications and data-driven services, with a focus on dependable APIs, troubleshooting, automation, and production reliability. I'm interested in software engineering opportunities involving scalable services, developer tools, and customer-facing platforms.
+I build web and mobile application projects and backend services, with an interest in creating useful, reliable experiences for customers and online communities. My experience also includes enterprise platform support, troubleshooting, automation, and production operations.
 
 - 🎓 M.S. in Business and Information Science — New Jersey Institute of Technology
-- 🧩 Backend development with Python, FastAPI, REST APIs, and SQL
-- 🛠️ Application support, debugging, incident investigation, and root-cause analysis
-- ☁️ Hands-on practice with Docker, Linux, Kubernetes, AWS, and OCI
-- 🌱 Building my frontend experience with JavaScript, React, and React Native
+- 🖥️ Built application projects using React and JavaScript
+- 📱 Built application projects using React Native
+- 🔧 Backend development with Python, FastAPI, REST APIs, and SQL
+- ☁️ Experience and project practice with AWS, OCI, Docker, Linux, and Kubernetes
+- 🛠️ Interested in frontend/full-stack engineering, real-time community experiences, and platform reliability
 
 ## Technical Skills
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, JavaScript, SQL, Bash |
+| Languages | JavaScript, Python, SQL, Bash |
+| Web & Mobile | React, React Native |
 | Backend | FastAPI, REST APIs, SQLAlchemy, Alembic |
-| Frontend | React and React Native (working knowledge) |
 | Databases | PostgreSQL, SQL Server, Oracle, Snowflake |
 | Cloud & DevOps | AWS, OCI, Docker, Kubernetes, Linux, Git, GitHub Actions |
 | Quality & Operations | Pytest, API validation, debugging, logs, incident response, root-cause analysis |
@@ -34,6 +35,8 @@ A practice project documenting development automation and CI/CD concepts.
 
 ### [QR Code Generator](https://github.com/VaishnaviGangam/QRCode_Assignment7)
 Python project for generating QR codes.
+
+*React and React Native projects are not linked here yet. I'll add their repository links and project-specific descriptions once those repositories are identified.*
 
 ## Experience
 
