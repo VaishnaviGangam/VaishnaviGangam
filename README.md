@@ -22,21 +22,17 @@ I build web and mobile application projects and backend services, with an intere
 | Cloud & DevOps | AWS, OCI, Docker, Kubernetes, Linux, Git, GitHub Actions |
 | Quality & Operations | Pytest, API validation, debugging, logs, incident response, root-cause analysis |
 
-## Selected Projects
+## Featured Projects
 
-### [User Management API](https://github.com/VaishnaviGangam/user_management)
-Backend API project covering user management, authentication, and database-backed operations.
+- **[Software Engineering Portfolio](https://github.com/VaishnaviGangam/Projects2024)** — Index of selected projects and technical work.
+- **[User Management API](https://github.com/VaishnaviGangam/user_management)** — Backend API project covering user management, authentication, and database-backed operations.
+- **[Event Manager API](https://github.com/VaishnaviGangam/event_manager)** — API project focused on event-management workflows and backend application structure.
+- **[DevOps CI/CD Demo](https://github.com/VaishnaviGangam/devops_demo)** — Practice repository documenting automated development and delivery workflows.
+- **[QR Code Generator](https://github.com/VaishnaviGangam/QRCode_Assignment7)** — Python project for generating QR codes.
 
-### [Event Manager API](https://github.com/VaishnaviGangam/event_manager)
-API project focused on event-management workflows and backend application structure.
+## Frontend & Mobile
 
-### [DevOps CI/CD Demo](https://github.com/VaishnaviGangam/devops_demo)
-A practice project documenting development automation and CI/CD concepts.
-
-### [QR Code Generator](https://github.com/VaishnaviGangam/QRCode_Assignment7)
-Python project for generating QR codes.
-
-*React and React Native projects are not linked here yet. I'll add their repository links and project-specific descriptions once those repositories are identified.*
+I have built projects using React and React Native. I am continuing to organize the source repositories and project documentation so visitors can review the implementations, setup steps, and screenshots.
 
 ## Experience
 
